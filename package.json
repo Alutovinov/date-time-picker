@@ -1,6 +1,6 @@
 {
   "name": "ng-pick-datetime",
-  "version": "5.2.6",
+  "version": "5.2.8",
   "description": "Angular Date Time Picker",
   "keywords": [
     "Angular",
@@ -19,7 +19,7 @@
   "module": "picker.js",
   "types": "picker.d.ts",
   "main": "picker.bundle.js",
-  "dependencies": {
+  "peerDependencies": {
     "@angular/cdk": "^5.2.0"
   },
   "devDependencies": {
